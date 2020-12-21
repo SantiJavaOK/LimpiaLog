@@ -45,6 +45,10 @@ public class Principal {
 		
 		Util utilit = new Util();
 		utilit.setUtilidad("sarasa");
+		
+		//Probando un git stash
+		Log logging = new Log();
+		logging.setLogging("Cambios en el medio del stash");
 
 	}
 

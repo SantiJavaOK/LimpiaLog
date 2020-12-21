@@ -5,6 +5,10 @@ public class Log {
 	//Esto es un cambio en log
 	
 	private String logging;
+	
+	public Log() {
+		
+	}
 
 	public String getLogging() {
 		return logging;
